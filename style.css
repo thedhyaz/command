@@ -54,6 +54,7 @@ img{
 }
 
 .title{
+  padding: 4%;
   font-size: 2rem;
   color: #090f16;
   -webkit-text-stroke: 0.8px #f0f0ff;
