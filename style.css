@@ -43,7 +43,7 @@ img{
 
 .reloj{
   width: 80%;
-  padding: 4%;
+  padding: 6%;
   margin: 4% auto;
   text-align: center;
   border-radius: 22px;
@@ -56,11 +56,13 @@ img{
 .title{
   font-size: 2rem;
   color: #090f16;
+  -webkit-text-stroke: 0.8px #f0f0ff;
 }
 span{
 	font-size: 1.6rem;
 	color: #f0f0ff;
 	text-align: center;
+	-webkit-text-stroke: 0.8px #090F16;
 }
 .dominos-container {
 	display: flex;
